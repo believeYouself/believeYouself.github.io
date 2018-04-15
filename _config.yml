@@ -71,6 +71,9 @@ search:
   path: search.json
   field: post
 
+post_style:
+  indent: indent
+
 # Custom Setting End
 # Directory
 source_dir: source
